@@ -1,8 +1,8 @@
 # Airbnb Listings Insights
 
-Project Type: Data Analysis & Price Prediction using Python
-Tools: Python, Pandas, Seaborn, Plotly, Scikit-learn
-Description: Performed data cleaning, exploratory analysis, and built a regression model to estimate Airbnb listing prices. Delivered insights on pricing patterns, guest behavior, and host strategy.
+- **Project Type**: Data Analysis & Price Prediction using Python
+- **Tools**: Python, Pandas, Seaborn, Plotly, Scikit-learn
+- **Description**: Performed data cleaning, exploratory analysis, and built a regression model to estimate Airbnb listing prices. Delivered insights on pricing patterns, guest behavior, and host strategy.
 
 
 ## 📌 Overview
