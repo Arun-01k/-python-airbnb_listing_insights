@@ -29,17 +29,16 @@ The dataset required cleaning to ensure reliability:
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### Price & Review Distribution
-- Price distribution is right-skewed with many listings priced under $300
+- The data reveals that although listing prices vary, guest engagement — measured by review volume — is overwhelmingly focused on listings priced under $300. This implies that affordability plays a significant role in booking behavior.
 - Number of reviews also shows a long tail; most listings have fewer than 50 reviews
-- A joint distribution plot reveals no strong linear relationship between price and number of reviews
 
 ### Correlations
 We examined correlations among selected features:
-- `number_of_reviews` correlates positively with `reviews_per_month`
+- correlation remains statistically insignificant
 - `price` shows weak correlation with most numeric variables, indicating external factors at play
 
 ### Date Range
-- `last_review` column ranges from **2011 to 2024**, covering a wide timeline of guest activity
+- `last_review` column ranges from **2011 to 2024**, covering a wide timeline of guest activity with some disruption during COVID-19
 
 ---
 
